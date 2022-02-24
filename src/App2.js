@@ -54,6 +54,7 @@ const movies = [
 
 
 function App2  () {
+    
 const [updateMovie, setUpdateMovie] = useState(movies);
 const [textInput, setTextInput] = useState("")
 const getData2= (data) =>{
